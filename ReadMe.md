@@ -111,8 +111,8 @@ id: Vietnam
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Vietnam/
-markerFolder: ./Vietnam/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Vietnam] 
