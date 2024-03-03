@@ -29,13 +29,15 @@ expiryDate:
 
 # Hồ_Chí_Minh_city
 
+## #has_/map 
+
 ```leaflet
 id: Hồ_Chí_Minh_city
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Hồ_Chí_Minh_city/
-markerFolder: ./Hồ_Chí_Minh_city/
+geojsonFolder: ./Hồ_Chí_Minh-City/
+markerFolder: ./Hồ_Chí_Minh-City/
 ```
 
 
