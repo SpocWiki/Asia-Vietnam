@@ -40,11 +40,18 @@ markerFolder: ./Ha_Tinh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Tinh|Ha_Tinh]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Tinh.public|Ha_Tinh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Tinh.internal|Ha_Tinh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Tinh.protect|Ha_Tinh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Tinh.private|Ha_Tinh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Tinh.personal|Ha_Tinh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Ha_Tinh.secret|Ha_Tinh.secret]] 
+
+### #is_/same_as :: [Ha_Tinh](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Tinh.md) 
+
+### #is_/same_as :: [Ha_Tinh.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Tinh.public.md) 
+
+### #is_/same_as :: [Ha_Tinh.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Tinh.internal.md) 
+
+### #is_/same_as :: [Ha_Tinh.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Tinh.protect.md) 
+
+### #is_/same_as :: [Ha_Tinh.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Tinh.private.md) 
+
+### #is_/same_as :: [Ha_Tinh.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Tinh.personal.md) 
+
+### #is_/same_as :: [Ha_Tinh.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Tinh.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Lai_Chau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau|Lai_Chau]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.public|Lai_Chau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.internal|Lai_Chau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.protect|Lai_Chau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.private|Lai_Chau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.personal|Lai_Chau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lai_Chau.secret|Lai_Chau.secret]] 
+
+### #is_/same_as :: [Lai_Chau](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lai_Chau.md) 
+
+### #is_/same_as :: [Lai_Chau.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lai_Chau.public.md) 
+
+### #is_/same_as :: [Lai_Chau.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lai_Chau.internal.md) 
+
+### #is_/same_as :: [Lai_Chau.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lai_Chau.protect.md) 
+
+### #is_/same_as :: [Lai_Chau.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lai_Chau.private.md) 
+
+### #is_/same_as :: [Lai_Chau.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lai_Chau.personal.md) 
+
+### #is_/same_as :: [Lai_Chau.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lai_Chau.secret.md)
 

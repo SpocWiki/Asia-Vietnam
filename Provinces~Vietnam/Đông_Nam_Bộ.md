@@ -40,11 +40,18 @@ markerFolder: ./Đông_Nam_Bộ/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Nam_Bộ|Đông_Nam_Bộ]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Nam_Bộ.public|Đông_Nam_Bộ.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Nam_Bộ.internal|Đông_Nam_Bộ.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Nam_Bộ.protect|Đông_Nam_Bộ.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Nam_Bộ.private|Đông_Nam_Bộ.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Nam_Bộ.personal|Đông_Nam_Bộ.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đông_Nam_Bộ.secret|Đông_Nam_Bộ.secret]] 
+
+### #is_/same_as :: [Đông_Nam_Bộ](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Nam_Bộ.md) 
+
+### #is_/same_as :: [Đông_Nam_Bộ.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Nam_Bộ.public.md) 
+
+### #is_/same_as :: [Đông_Nam_Bộ.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Nam_Bộ.internal.md) 
+
+### #is_/same_as :: [Đông_Nam_Bộ.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Nam_Bộ.protect.md) 
+
+### #is_/same_as :: [Đông_Nam_Bộ.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Nam_Bộ.private.md) 
+
+### #is_/same_as :: [Đông_Nam_Bộ.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Nam_Bộ.personal.md) 
+
+### #is_/same_as :: [Đông_Nam_Bộ.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Nam_Bộ.secret.md)
 

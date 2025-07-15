@@ -40,11 +40,18 @@ markerFolder: ./Son_La/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Son_La|Son_La]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Son_La.public|Son_La.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Son_La.internal|Son_La.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Son_La.protect|Son_La.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Son_La.private|Son_La.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Son_La.personal|Son_La.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Son_La.secret|Son_La.secret]] 
+
+### #is_/same_as :: [Son_La](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Son_La.md) 
+
+### #is_/same_as :: [Son_La.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Son_La.public.md) 
+
+### #is_/same_as :: [Son_La.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Son_La.internal.md) 
+
+### #is_/same_as :: [Son_La.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Son_La.protect.md) 
+
+### #is_/same_as :: [Son_La.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Son_La.private.md) 
+
+### #is_/same_as :: [Son_La.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Son_La.personal.md) 
+
+### #is_/same_as :: [Son_La.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Son_La.secret.md)
 

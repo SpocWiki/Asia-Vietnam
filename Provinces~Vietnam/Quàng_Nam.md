@@ -40,11 +40,18 @@ markerFolder: ./Quàng_Nam/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quàng_Nam|Quàng_Nam]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quàng_Nam.public|Quàng_Nam.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quàng_Nam.internal|Quàng_Nam.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quàng_Nam.protect|Quàng_Nam.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quàng_Nam.private|Quàng_Nam.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quàng_Nam.personal|Quàng_Nam.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Quàng_Nam.secret|Quàng_Nam.secret]] 
+
+### #is_/same_as :: [Quàng_Nam](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quàng_Nam.md) 
+
+### #is_/same_as :: [Quàng_Nam.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quàng_Nam.public.md) 
+
+### #is_/same_as :: [Quàng_Nam.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quàng_Nam.internal.md) 
+
+### #is_/same_as :: [Quàng_Nam.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quàng_Nam.protect.md) 
+
+### #is_/same_as :: [Quàng_Nam.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quàng_Nam.private.md) 
+
+### #is_/same_as :: [Quàng_Nam.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quàng_Nam.personal.md) 
+
+### #is_/same_as :: [Quàng_Nam.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quàng_Nam.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Bình_Phước/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Phước|Bình_Phước]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Phước.public|Bình_Phước.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Phước.internal|Bình_Phước.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Phước.protect|Bình_Phước.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Phước.private|Bình_Phước.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Phước.personal|Bình_Phước.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Bình_Phước.secret|Bình_Phước.secret]] 
+
+### #is_/same_as :: [Bình_Phước](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bình_Phước.md) 
+
+### #is_/same_as :: [Bình_Phước.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bình_Phước.public.md) 
+
+### #is_/same_as :: [Bình_Phước.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bình_Phước.internal.md) 
+
+### #is_/same_as :: [Bình_Phước.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bình_Phước.protect.md) 
+
+### #is_/same_as :: [Bình_Phước.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bình_Phước.private.md) 
+
+### #is_/same_as :: [Bình_Phước.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bình_Phước.personal.md) 
+
+### #is_/same_as :: [Bình_Phước.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bình_Phước.secret.md)
 

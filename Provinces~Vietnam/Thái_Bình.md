@@ -40,11 +40,18 @@ markerFolder: ./Thái_Bình/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình|Thái_Bình]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.public|Thái_Bình.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.internal|Thái_Bình.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.protect|Thái_Bình.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.private|Thái_Bình.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.personal|Thái_Bình.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thái_Bình.secret|Thái_Bình.secret]] 
+
+### #is_/same_as :: [Thái_Bình](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.md) 
+
+### #is_/same_as :: [Thái_Bình.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.public.md) 
+
+### #is_/same_as :: [Thái_Bình.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.internal.md) 
+
+### #is_/same_as :: [Thái_Bình.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.protect.md) 
+
+### #is_/same_as :: [Thái_Bình.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.private.md) 
+
+### #is_/same_as :: [Thái_Bình.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.personal.md) 
+
+### #is_/same_as :: [Thái_Bình.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.secret.md)
 

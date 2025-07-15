@@ -42,11 +42,18 @@ markerFolder: ./Hồ_Chí_Minh-City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city|Hồ_Chí_Minh_city]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.public|Hồ_Chí_Minh_city.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.internal|Hồ_Chí_Minh_city.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.protect|Hồ_Chí_Minh_city.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.private|Hồ_Chí_Minh_city.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.personal|Hồ_Chí_Minh_city.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Hồ_Chí_Minh_city.secret|Hồ_Chí_Minh_city.secret]] 
+
+### #is_/same_as :: [Hồ_Chí_Minh-City](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.md) 
+
+### #is_/same_as :: [Hồ_Chí_Minh-City.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.public.md) 
+
+### #is_/same_as :: [Hồ_Chí_Minh-City.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.internal.md) 
+
+### #is_/same_as :: [Hồ_Chí_Minh-City.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.protect.md) 
+
+### #is_/same_as :: [Hồ_Chí_Minh-City.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.private.md) 
+
+### #is_/same_as :: [Hồ_Chí_Minh-City.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.personal.md) 
+
+### #is_/same_as :: [Hồ_Chí_Minh-City.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.secret.md)
 

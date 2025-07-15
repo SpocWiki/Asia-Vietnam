@@ -134,10 +134,4 @@ Capital :: [[Hanoe]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Vietnam|Vietnam]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam.internal|Vietnam.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam.protect|Vietnam.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam.private|Vietnam.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam.personal|Vietnam.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam.secret|Vietnam.secret]] 
+

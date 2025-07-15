@@ -40,11 +40,18 @@ markerFolder: ./Kiên_Giang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang|Kiên_Giang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.public|Kiên_Giang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.internal|Kiên_Giang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.protect|Kiên_Giang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.private|Kiên_Giang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.personal|Kiên_Giang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Kiên_Giang.secret|Kiên_Giang.secret]] 
+
+### #is_/same_as :: [Kiên_Giang](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Kiên_Giang.md) 
+
+### #is_/same_as :: [Kiên_Giang.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Kiên_Giang.public.md) 
+
+### #is_/same_as :: [Kiên_Giang.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Kiên_Giang.internal.md) 
+
+### #is_/same_as :: [Kiên_Giang.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Kiên_Giang.protect.md) 
+
+### #is_/same_as :: [Kiên_Giang.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Kiên_Giang.private.md) 
+
+### #is_/same_as :: [Kiên_Giang.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Kiên_Giang.personal.md) 
+
+### #is_/same_as :: [Kiên_Giang.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Kiên_Giang.secret.md)
 

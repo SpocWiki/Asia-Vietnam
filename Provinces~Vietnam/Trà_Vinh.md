@@ -40,11 +40,18 @@ markerFolder: ./Trà_Vinh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh|Trà_Vinh]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.public|Trà_Vinh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.internal|Trà_Vinh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.protect|Trà_Vinh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.private|Trà_Vinh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.personal|Trà_Vinh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Trà_Vinh.secret|Trà_Vinh.secret]] 
+
+### #is_/same_as :: [Trà_Vinh](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Trà_Vinh.md) 
+
+### #is_/same_as :: [Trà_Vinh.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Trà_Vinh.public.md) 
+
+### #is_/same_as :: [Trà_Vinh.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Trà_Vinh.internal.md) 
+
+### #is_/same_as :: [Trà_Vinh.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Trà_Vinh.protect.md) 
+
+### #is_/same_as :: [Trà_Vinh.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Trà_Vinh.private.md) 
+
+### #is_/same_as :: [Trà_Vinh.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Trà_Vinh.personal.md) 
+
+### #is_/same_as :: [Trà_Vinh.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Trà_Vinh.secret.md)
 

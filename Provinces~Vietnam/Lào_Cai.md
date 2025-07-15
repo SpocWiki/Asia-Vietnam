@@ -40,11 +40,18 @@ markerFolder: ./Lào_Cai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lào_Cai|Lào_Cai]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lào_Cai.public|Lào_Cai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lào_Cai.internal|Lào_Cai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lào_Cai.protect|Lào_Cai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lào_Cai.private|Lào_Cai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lào_Cai.personal|Lào_Cai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Lào_Cai.secret|Lào_Cai.secret]] 
+
+### #is_/same_as :: [Lào_Cai](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lào_Cai.md) 
+
+### #is_/same_as :: [Lào_Cai.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lào_Cai.public.md) 
+
+### #is_/same_as :: [Lào_Cai.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lào_Cai.internal.md) 
+
+### #is_/same_as :: [Lào_Cai.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lào_Cai.protect.md) 
+
+### #is_/same_as :: [Lào_Cai.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lào_Cai.private.md) 
+
+### #is_/same_as :: [Lào_Cai.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lào_Cai.personal.md) 
+
+### #is_/same_as :: [Lào_Cai.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lào_Cai.secret.md)
 

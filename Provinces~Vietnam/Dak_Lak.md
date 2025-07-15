@@ -40,11 +40,18 @@ markerFolder: ./Dak_Lak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Dak_Lak|Dak_Lak]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Dak_Lak.public|Dak_Lak.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Dak_Lak.internal|Dak_Lak.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Dak_Lak.protect|Dak_Lak.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Dak_Lak.private|Dak_Lak.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Dak_Lak.personal|Dak_Lak.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Dak_Lak.secret|Dak_Lak.secret]] 
+
+### #is_/same_as :: [Dak_Lak](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Dak_Lak.md) 
+
+### #is_/same_as :: [Dak_Lak.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Dak_Lak.public.md) 
+
+### #is_/same_as :: [Dak_Lak.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Dak_Lak.internal.md) 
+
+### #is_/same_as :: [Dak_Lak.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Dak_Lak.protect.md) 
+
+### #is_/same_as :: [Dak_Lak.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Dak_Lak.private.md) 
+
+### #is_/same_as :: [Dak_Lak.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Dak_Lak.personal.md) 
+
+### #is_/same_as :: [Dak_Lak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Dak_Lak.secret.md)
 

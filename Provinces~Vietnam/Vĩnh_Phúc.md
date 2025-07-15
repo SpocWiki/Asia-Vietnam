@@ -40,11 +40,18 @@ markerFolder: ./Vĩnh_Phúc/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc|Vĩnh_Phúc]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.public|Vĩnh_Phúc.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.internal|Vĩnh_Phúc.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.protect|Vĩnh_Phúc.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.private|Vĩnh_Phúc.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.personal|Vĩnh_Phúc.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Vĩnh_Phúc.secret|Vĩnh_Phúc.secret]] 
+
+### #is_/same_as :: [Vĩnh_Phúc](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Vĩnh_Phúc.md) 
+
+### #is_/same_as :: [Vĩnh_Phúc.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Vĩnh_Phúc.public.md) 
+
+### #is_/same_as :: [Vĩnh_Phúc.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Vĩnh_Phúc.internal.md) 
+
+### #is_/same_as :: [Vĩnh_Phúc.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Vĩnh_Phúc.protect.md) 
+
+### #is_/same_as :: [Vĩnh_Phúc.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Vĩnh_Phúc.private.md) 
+
+### #is_/same_as :: [Vĩnh_Phúc.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Vĩnh_Phúc.personal.md) 
+
+### #is_/same_as :: [Vĩnh_Phúc.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Vĩnh_Phúc.secret.md)
 

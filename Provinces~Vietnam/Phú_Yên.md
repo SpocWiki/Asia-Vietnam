@@ -40,11 +40,18 @@ markerFolder: ./Phú_Yên/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên|Phú_Yên]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.public|Phú_Yên.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.internal|Phú_Yên.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.protect|Phú_Yên.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.private|Phú_Yên.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.personal|Phú_Yên.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Phú_Yên.secret|Phú_Yên.secret]] 
+
+### #is_/same_as :: [Phú_Yên](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Phú_Yên.md) 
+
+### #is_/same_as :: [Phú_Yên.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Phú_Yên.public.md) 
+
+### #is_/same_as :: [Phú_Yên.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Phú_Yên.internal.md) 
+
+### #is_/same_as :: [Phú_Yên.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Phú_Yên.protect.md) 
+
+### #is_/same_as :: [Phú_Yên.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Phú_Yên.private.md) 
+
+### #is_/same_as :: [Phú_Yên.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Phú_Yên.personal.md) 
+
+### #is_/same_as :: [Phú_Yên.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Phú_Yên.secret.md)
 

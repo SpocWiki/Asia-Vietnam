@@ -40,11 +40,18 @@ markerFolder: ./Cao_Bằng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng|Cao_Bằng]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.public|Cao_Bằng.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.internal|Cao_Bằng.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.protect|Cao_Bằng.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.private|Cao_Bằng.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.personal|Cao_Bằng.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cao_Bằng.secret|Cao_Bằng.secret]] 
+
+### #is_/same_as :: [Cao_Bằng](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cao_Bằng.md) 
+
+### #is_/same_as :: [Cao_Bằng.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cao_Bằng.public.md) 
+
+### #is_/same_as :: [Cao_Bằng.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cao_Bằng.internal.md) 
+
+### #is_/same_as :: [Cao_Bằng.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cao_Bằng.protect.md) 
+
+### #is_/same_as :: [Cao_Bằng.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cao_Bằng.private.md) 
+
+### #is_/same_as :: [Cao_Bằng.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cao_Bằng.personal.md) 
+
+### #is_/same_as :: [Cao_Bằng.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cao_Bằng.secret.md)
 

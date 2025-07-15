@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/City/Dien_Bien_Phu|Dien_Bien_Phu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/City/Dien_Bien_Phu.public|Dien_Bien_Phu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/City/Dien_Bien_Phu.internal|Dien_Bien_Phu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/City/Dien_Bien_Phu.protect|Dien_Bien_Phu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/City/Dien_Bien_Phu.private|Dien_Bien_Phu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/City/Dien_Bien_Phu.personal|Dien_Bien_Phu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/City/Dien_Bien_Phu.secret|Dien_Bien_Phu.secret]] 
+
+### #is_/same_as :: [Dien_Bien_Phu](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên/City/Dien_Bien_Phu.md) 
+
+### #is_/same_as :: [Dien_Bien_Phu.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên/City/Dien_Bien_Phu.public.md) 
+
+### #is_/same_as :: [Dien_Bien_Phu.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên/City/Dien_Bien_Phu.internal.md) 
+
+### #is_/same_as :: [Dien_Bien_Phu.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên/City/Dien_Bien_Phu.protect.md) 
+
+### #is_/same_as :: [Dien_Bien_Phu.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên/City/Dien_Bien_Phu.private.md) 
+
+### #is_/same_as :: [Dien_Bien_Phu.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên/City/Dien_Bien_Phu.personal.md) 
+
+### #is_/same_as :: [Dien_Bien_Phu.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên/City/Dien_Bien_Phu.secret.md)
+

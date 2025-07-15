@@ -43,11 +43,18 @@ markerFolder: ./Thừa_Thiên-Huế/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên-Huế|Thừa_Thiên-Huế]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên-Huế.public|Thừa_Thiên-Huế.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên-Huế.internal|Thừa_Thiên-Huế.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên-Huế.protect|Thừa_Thiên-Huế.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên-Huế.private|Thừa_Thiên-Huế.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên-Huế.personal|Thừa_Thiên-Huế.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Thừa_Thiên-Huế.secret|Thừa_Thiên-Huế.secret]] 
+
+### #is_/same_as :: [Thừa_Thiên-Huế](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thừa_Thiên-Huế.md) 
+
+### #is_/same_as :: [Thừa_Thiên-Huế.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thừa_Thiên-Huế.public.md) 
+
+### #is_/same_as :: [Thừa_Thiên-Huế.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thừa_Thiên-Huế.internal.md) 
+
+### #is_/same_as :: [Thừa_Thiên-Huế.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thừa_Thiên-Huế.protect.md) 
+
+### #is_/same_as :: [Thừa_Thiên-Huế.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thừa_Thiên-Huế.private.md) 
+
+### #is_/same_as :: [Thừa_Thiên-Huế.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thừa_Thiên-Huế.personal.md) 
+
+### #is_/same_as :: [Thừa_Thiên-Huế.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thừa_Thiên-Huế.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Cà_Mau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau|Cà_Mau]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.public|Cà_Mau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.internal|Cà_Mau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.protect|Cà_Mau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.private|Cà_Mau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.personal|Cà_Mau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Cà_Mau.secret|Cà_Mau.secret]] 
+
+### #is_/same_as :: [Cà_Mau](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.md) 
+
+### #is_/same_as :: [Cà_Mau.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.public.md) 
+
+### #is_/same_as :: [Cà_Mau.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.internal.md) 
+
+### #is_/same_as :: [Cà_Mau.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.protect.md) 
+
+### #is_/same_as :: [Cà_Mau.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.private.md) 
+
+### #is_/same_as :: [Cà_Mau.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.personal.md) 
+
+### #is_/same_as :: [Cà_Mau.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.secret.md)
 

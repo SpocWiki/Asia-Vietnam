@@ -40,11 +40,18 @@ markerFolder: ./Long_An/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Long_An|Long_An]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Long_An.public|Long_An.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Long_An.internal|Long_An.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Long_An.protect|Long_An.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Long_An.private|Long_An.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Long_An.personal|Long_An.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Long_An.secret|Long_An.secret]] 
+
+### #is_/same_as :: [Long_An](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Long_An.md) 
+
+### #is_/same_as :: [Long_An.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Long_An.public.md) 
+
+### #is_/same_as :: [Long_An.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Long_An.internal.md) 
+
+### #is_/same_as :: [Long_An.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Long_An.protect.md) 
+
+### #is_/same_as :: [Long_An.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Long_An.private.md) 
+
+### #is_/same_as :: [Long_An.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Long_An.personal.md) 
+
+### #is_/same_as :: [Long_An.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Long_An.secret.md)
 

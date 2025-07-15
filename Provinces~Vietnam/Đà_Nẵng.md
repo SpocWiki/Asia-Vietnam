@@ -40,11 +40,18 @@ markerFolder: ./Đà_Nẵng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đà_Nẵng|Đà_Nẵng]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đà_Nẵng.public|Đà_Nẵng.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đà_Nẵng.internal|Đà_Nẵng.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đà_Nẵng.protect|Đà_Nẵng.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đà_Nẵng.private|Đà_Nẵng.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đà_Nẵng.personal|Đà_Nẵng.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Vietnam/Counties/Đà_Nẵng.secret|Đà_Nẵng.secret]] 
+
+### #is_/same_as :: [Đà_Nẵng](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đà_Nẵng.md) 
+
+### #is_/same_as :: [Đà_Nẵng.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đà_Nẵng.public.md) 
+
+### #is_/same_as :: [Đà_Nẵng.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đà_Nẵng.internal.md) 
+
+### #is_/same_as :: [Đà_Nẵng.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đà_Nẵng.protect.md) 
+
+### #is_/same_as :: [Đà_Nẵng.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đà_Nẵng.private.md) 
+
+### #is_/same_as :: [Đà_Nẵng.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đà_Nẵng.personal.md) 
+
+### #is_/same_as :: [Đà_Nẵng.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đà_Nẵng.secret.md)
 
