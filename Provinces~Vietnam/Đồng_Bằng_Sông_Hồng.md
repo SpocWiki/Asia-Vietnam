@@ -1,30 +1,29 @@
 ---
-location: [ 20.8 , 106 ] 
+location:
+  - 20.8
+  - 106
 type: geo-Region
 title: Đồng_Bằng_Sông_Hồng
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Đồng_Bằng_Sông_Hồng
-
+  - Đồng_Bằng_Sông_Hồng
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Đồng_Bằng_Sông_Hồng

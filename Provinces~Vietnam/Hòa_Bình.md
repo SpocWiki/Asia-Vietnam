@@ -1,30 +1,29 @@
 ---
-location: [ 20.7 , 105.2 ] 
+location:
+  - 20.7
+  - 105.2
 type: geo-Region
 title: Hòa_Bình
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Hòa_Bình
-
+  - Hòa_Bình
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Hòa_Bình

@@ -1,30 +1,29 @@
 ---
-location: [ 21.3 , 107.2 ] 
+location:
+  - 21.3
+  - 107.2
 type: geo-Region
 title: Quảng_Ninh
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Quảng_Ninh
-
+  - Quảng_Ninh
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Quảng_Ninh

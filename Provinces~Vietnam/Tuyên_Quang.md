@@ -1,30 +1,29 @@
 ---
-location: [ 22.1 , 105.2 ] 
+location:
+  - 22.1
+  - 105.2
 type: geo-Region
 title: Tuyên_Quang
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Tuyên_Quang
-
+  - Tuyên_Quang
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Tuyên_Quang

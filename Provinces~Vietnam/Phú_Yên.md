@@ -1,30 +1,29 @@
 ---
-location: [ 13.2 , 109.1 ] 
+location:
+  - 13.2
+  - 109.1
 type: geo-Region
 title: Phú_Yên
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Phú_Yên
-
+  - Phú_Yên
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Phú_Yên
