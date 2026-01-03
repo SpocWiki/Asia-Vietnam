@@ -40,17 +40,17 @@ markerFolder: ./Nghệ_An/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nghệ_An](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An|Nghệ_An]] 
 
-### #is_/same_as :: [Nghệ_An.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.public|Nghệ_An.public]] 
 
-### #is_/same_as :: [Nghệ_An.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.internal|Nghệ_An.internal]] 
 
-### #is_/same_as :: [Nghệ_An.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.protect|Nghệ_An.protect]] 
 
-### #is_/same_as :: [Nghệ_An.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.private|Nghệ_An.private]] 
 
-### #is_/same_as :: [Nghệ_An.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.personal|Nghệ_An.personal]] 
 
-### #is_/same_as :: [Nghệ_An.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Nghệ_An.secret|Nghệ_An.secret]] 
 

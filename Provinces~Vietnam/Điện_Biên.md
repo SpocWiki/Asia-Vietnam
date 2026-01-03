@@ -40,17 +40,17 @@ markerFolder: ./Điện_Biên/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Điện_Biên](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên|Điện_Biên]] 
 
-### #is_/same_as :: [Điện_Biên.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.public|Điện_Biên.public]] 
 
-### #is_/same_as :: [Điện_Biên.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.internal|Điện_Biên.internal]] 
 
-### #is_/same_as :: [Điện_Biên.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.protect|Điện_Biên.protect]] 
 
-### #is_/same_as :: [Điện_Biên.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.private|Điện_Biên.private]] 
 
-### #is_/same_as :: [Điện_Biên.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.personal|Điện_Biên.personal]] 
 
-### #is_/same_as :: [Điện_Biên.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Điện_Biên.secret|Điện_Biên.secret]] 
 

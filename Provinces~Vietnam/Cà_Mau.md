@@ -40,17 +40,17 @@ markerFolder: ./Cà_Mau/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cà_Mau](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau|Cà_Mau]] 
 
-### #is_/same_as :: [Cà_Mau.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.public|Cà_Mau.public]] 
 
-### #is_/same_as :: [Cà_Mau.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.internal|Cà_Mau.internal]] 
 
-### #is_/same_as :: [Cà_Mau.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.protect|Cà_Mau.protect]] 
 
-### #is_/same_as :: [Cà_Mau.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.private|Cà_Mau.private]] 
 
-### #is_/same_as :: [Cà_Mau.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.personal|Cà_Mau.personal]] 
 
-### #is_/same_as :: [Cà_Mau.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Cà_Mau.secret|Cà_Mau.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Thái_Bình/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thái_Bình](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình|Thái_Bình]] 
 
-### #is_/same_as :: [Thái_Bình.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.public|Thái_Bình.public]] 
 
-### #is_/same_as :: [Thái_Bình.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.internal|Thái_Bình.internal]] 
 
-### #is_/same_as :: [Thái_Bình.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.protect|Thái_Bình.protect]] 
 
-### #is_/same_as :: [Thái_Bình.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.private|Thái_Bình.private]] 
 
-### #is_/same_as :: [Thái_Bình.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.personal|Thái_Bình.personal]] 
 
-### #is_/same_as :: [Thái_Bình.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Bình.secret|Thái_Bình.secret]] 
 

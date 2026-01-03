@@ -25,3 +25,20 @@ coordinate_location: Point(105.441944444 21.281666666)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/H%E1%BB%93ng%20B%C3%A0ng%20dynasty) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Hong_Bang_Dynasty|Hong_Bang_Dynasty]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Hong_Bang_Dynasty.public|Hong_Bang_Dynasty.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Hong_Bang_Dynasty.internal|Hong_Bang_Dynasty.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Hong_Bang_Dynasty.protect|Hong_Bang_Dynasty.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Hong_Bang_Dynasty.private|Hong_Bang_Dynasty.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Hong_Bang_Dynasty.personal|Hong_Bang_Dynasty.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Hong_Bang_Dynasty.secret|Hong_Bang_Dynasty.secret]] 
+

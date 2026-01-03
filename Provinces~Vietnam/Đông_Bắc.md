@@ -40,17 +40,17 @@ markerFolder: ./Đông_Bắc/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Đông_Bắc](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc|Đông_Bắc]] 
 
-### #is_/same_as :: [Đông_Bắc.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.public|Đông_Bắc.public]] 
 
-### #is_/same_as :: [Đông_Bắc.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.internal|Đông_Bắc.internal]] 
 
-### #is_/same_as :: [Đông_Bắc.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.protect|Đông_Bắc.protect]] 
 
-### #is_/same_as :: [Đông_Bắc.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.private|Đông_Bắc.private]] 
 
-### #is_/same_as :: [Đông_Bắc.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.personal|Đông_Bắc.personal]] 
 
-### #is_/same_as :: [Đông_Bắc.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đông_Bắc.secret|Đông_Bắc.secret]] 
 

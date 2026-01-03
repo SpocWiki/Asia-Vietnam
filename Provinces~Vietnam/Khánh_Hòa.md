@@ -40,17 +40,17 @@ markerFolder: ./Khánh_Hòa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khánh_Hòa](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa|Khánh_Hòa]] 
 
-### #is_/same_as :: [Khánh_Hòa.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.public|Khánh_Hòa.public]] 
 
-### #is_/same_as :: [Khánh_Hòa.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.internal|Khánh_Hòa.internal]] 
 
-### #is_/same_as :: [Khánh_Hòa.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.protect|Khánh_Hòa.protect]] 
 
-### #is_/same_as :: [Khánh_Hòa.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.private|Khánh_Hòa.private]] 
 
-### #is_/same_as :: [Khánh_Hòa.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.personal|Khánh_Hòa.personal]] 
 
-### #is_/same_as :: [Khánh_Hòa.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Khánh_Hòa.secret|Khánh_Hòa.secret]] 
 

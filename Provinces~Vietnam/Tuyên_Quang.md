@@ -40,17 +40,17 @@ markerFolder: ./Tuyên_Quang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tuyên_Quang](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang|Tuyên_Quang]] 
 
-### #is_/same_as :: [Tuyên_Quang.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.public|Tuyên_Quang.public]] 
 
-### #is_/same_as :: [Tuyên_Quang.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.internal|Tuyên_Quang.internal]] 
 
-### #is_/same_as :: [Tuyên_Quang.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.protect|Tuyên_Quang.protect]] 
 
-### #is_/same_as :: [Tuyên_Quang.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.private|Tuyên_Quang.private]] 
 
-### #is_/same_as :: [Tuyên_Quang.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.personal|Tuyên_Quang.personal]] 
 
-### #is_/same_as :: [Tuyên_Quang.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tuyên_Quang.secret|Tuyên_Quang.secret]] 
 

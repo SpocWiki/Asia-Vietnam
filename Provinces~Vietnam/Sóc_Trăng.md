@@ -40,17 +40,17 @@ markerFolder: ./Sóc_Trăng/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sóc_Trăng](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng|Sóc_Trăng]] 
 
-### #is_/same_as :: [Sóc_Trăng.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.public|Sóc_Trăng.public]] 
 
-### #is_/same_as :: [Sóc_Trăng.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.internal|Sóc_Trăng.internal]] 
 
-### #is_/same_as :: [Sóc_Trăng.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.protect|Sóc_Trăng.protect]] 
 
-### #is_/same_as :: [Sóc_Trăng.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.private|Sóc_Trăng.private]] 
 
-### #is_/same_as :: [Sóc_Trăng.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.personal|Sóc_Trăng.personal]] 
 
-### #is_/same_as :: [Sóc_Trăng.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Sóc_Trăng.secret|Sóc_Trăng.secret]] 
 

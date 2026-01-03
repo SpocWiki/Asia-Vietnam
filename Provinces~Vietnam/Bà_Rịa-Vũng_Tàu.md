@@ -44,17 +44,17 @@ markerFolder: ./Bà_Rịa-Vũng_Tàu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bà_Rịa-Vũng_Tàu](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu|Bà_Rịa-Vũng_Tàu]] 
 
-### #is_/same_as :: [Bà_Rịa-Vũng_Tàu.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.public|Bà_Rịa-Vũng_Tàu.public]] 
 
-### #is_/same_as :: [Bà_Rịa-Vũng_Tàu.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.internal|Bà_Rịa-Vũng_Tàu.internal]] 
 
-### #is_/same_as :: [Bà_Rịa-Vũng_Tàu.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.protect|Bà_Rịa-Vũng_Tàu.protect]] 
 
-### #is_/same_as :: [Bà_Rịa-Vũng_Tàu.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.private|Bà_Rịa-Vũng_Tàu.private]] 
 
-### #is_/same_as :: [Bà_Rịa-Vũng_Tàu.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.personal|Bà_Rịa-Vũng_Tàu.personal]] 
 
-### #is_/same_as :: [Bà_Rịa-Vũng_Tàu.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bà_Rịa-Vũng_Tàu.secret|Bà_Rịa-Vũng_Tàu.secret]] 
 

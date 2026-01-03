@@ -233,17 +233,17 @@ markerFolder: ./Ho_Chi_Minh,City/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hồ_Chí_Minh-City](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City|Ho_Chi_Minh,City]] 
 
-### #is_/same_as :: [Hồ_Chí_Minh-City.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City.public|Ho_Chi_Minh,City.public]] 
 
-### #is_/same_as :: [Hồ_Chí_Minh-City.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City.internal|Ho_Chi_Minh,City.internal]] 
 
-### #is_/same_as :: [Hồ_Chí_Minh-City.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City.protect|Ho_Chi_Minh,City.protect]] 
 
-### #is_/same_as :: [Hồ_Chí_Minh-City.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City.private|Ho_Chi_Minh,City.private]] 
 
-### #is_/same_as :: [Hồ_Chí_Minh-City.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City.personal|Ho_Chi_Minh,City.personal]] 
 
-### #is_/same_as :: [Hồ_Chí_Minh-City.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City.secret|Ho_Chi_Minh,City.secret]] 
 

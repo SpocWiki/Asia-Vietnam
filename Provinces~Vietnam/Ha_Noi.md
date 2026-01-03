@@ -40,17 +40,17 @@ markerFolder: ./Ha_Noi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ha_Noi](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi|Ha_Noi]] 
 
-### #is_/same_as :: [Ha_Noi.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.public|Ha_Noi.public]] 
 
-### #is_/same_as :: [Ha_Noi.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.internal|Ha_Noi.internal]] 
 
-### #is_/same_as :: [Ha_Noi.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.protect|Ha_Noi.protect]] 
 
-### #is_/same_as :: [Ha_Noi.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.private|Ha_Noi.private]] 
 
-### #is_/same_as :: [Ha_Noi.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.personal|Ha_Noi.personal]] 
 
-### #is_/same_as :: [Ha_Noi.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ha_Noi.secret|Ha_Noi.secret]] 
 

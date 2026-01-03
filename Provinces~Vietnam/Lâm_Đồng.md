@@ -40,17 +40,17 @@ markerFolder: ./Lâm_Đồng/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lâm_Đồng](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng|Lâm_Đồng]] 
 
-### #is_/same_as :: [Lâm_Đồng.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.public|Lâm_Đồng.public]] 
 
-### #is_/same_as :: [Lâm_Đồng.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.internal|Lâm_Đồng.internal]] 
 
-### #is_/same_as :: [Lâm_Đồng.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.protect|Lâm_Đồng.protect]] 
 
-### #is_/same_as :: [Lâm_Đồng.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.private|Lâm_Đồng.private]] 
 
-### #is_/same_as :: [Lâm_Đồng.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.personal|Lâm_Đồng.personal]] 
 
-### #is_/same_as :: [Lâm_Đồng.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Lâm_Đồng.secret|Lâm_Đồng.secret]] 
 

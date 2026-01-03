@@ -40,17 +40,17 @@ markerFolder: ./Ð_ng_Tháp/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Đồng_Tháp](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp|Đồng_Tháp]] 
 
-### #is_/same_as :: [Đồng_Tháp.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.public|Đồng_Tháp.public]] 
 
-### #is_/same_as :: [Đồng_Tháp.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.internal|Đồng_Tháp.internal]] 
 
-### #is_/same_as :: [Đồng_Tháp.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.protect|Đồng_Tháp.protect]] 
 
-### #is_/same_as :: [Đồng_Tháp.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.private|Đồng_Tháp.private]] 
 
-### #is_/same_as :: [Đồng_Tháp.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.personal|Đồng_Tháp.personal]] 
 
-### #is_/same_as :: [Đồng_Tháp.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Tháp.secret|Đồng_Tháp.secret]] 
 

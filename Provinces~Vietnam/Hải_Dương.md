@@ -40,17 +40,17 @@ markerFolder: ./Hải_Dương/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hải_Dương](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương|Hải_Dương]] 
 
-### #is_/same_as :: [Hải_Dương.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.public|Hải_Dương.public]] 
 
-### #is_/same_as :: [Hải_Dương.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.internal|Hải_Dương.internal]] 
 
-### #is_/same_as :: [Hải_Dương.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.protect|Hải_Dương.protect]] 
 
-### #is_/same_as :: [Hải_Dương.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.private|Hải_Dương.private]] 
 
-### #is_/same_as :: [Hải_Dương.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.personal|Hải_Dương.personal]] 
 
-### #is_/same_as :: [Hải_Dương.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Dương.secret|Hải_Dương.secret]] 
 

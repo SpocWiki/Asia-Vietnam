@@ -40,17 +40,17 @@ markerFolder: ./Tiền_Giang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tiền_Giang](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang|Tiền_Giang]] 
 
-### #is_/same_as :: [Tiền_Giang.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.public|Tiền_Giang.public]] 
 
-### #is_/same_as :: [Tiền_Giang.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.internal|Tiền_Giang.internal]] 
 
-### #is_/same_as :: [Tiền_Giang.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.protect|Tiền_Giang.protect]] 
 
-### #is_/same_as :: [Tiền_Giang.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.private|Tiền_Giang.private]] 
 
-### #is_/same_as :: [Tiền_Giang.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.personal|Tiền_Giang.personal]] 
 
-### #is_/same_as :: [Tiền_Giang.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Tiền_Giang.secret|Tiền_Giang.secret]] 
 

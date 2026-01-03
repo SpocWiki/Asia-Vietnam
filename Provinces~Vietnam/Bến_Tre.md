@@ -40,17 +40,17 @@ markerFolder: ./Bến_Tre/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bến_Tre](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre|Bến_Tre]] 
 
-### #is_/same_as :: [Bến_Tre.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.public|Bến_Tre.public]] 
 
-### #is_/same_as :: [Bến_Tre.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.internal|Bến_Tre.internal]] 
 
-### #is_/same_as :: [Bến_Tre.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.protect|Bến_Tre.protect]] 
 
-### #is_/same_as :: [Bến_Tre.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.private|Bến_Tre.private]] 
 
-### #is_/same_as :: [Bến_Tre.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.personal|Bến_Tre.personal]] 
 
-### #is_/same_as :: [Bến_Tre.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bến_Tre.secret|Bến_Tre.secret]] 
 

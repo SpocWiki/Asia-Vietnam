@@ -40,17 +40,17 @@ markerFolder: ./Quảng_Trị/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quảng_Trị](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị|Quảng_Trị]] 
 
-### #is_/same_as :: [Quảng_Trị.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.public|Quảng_Trị.public]] 
 
-### #is_/same_as :: [Quảng_Trị.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.internal|Quảng_Trị.internal]] 
 
-### #is_/same_as :: [Quảng_Trị.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.protect|Quảng_Trị.protect]] 
 
-### #is_/same_as :: [Quảng_Trị.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.private|Quảng_Trị.private]] 
 
-### #is_/same_as :: [Quảng_Trị.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.personal|Quảng_Trị.personal]] 
 
-### #is_/same_as :: [Quảng_Trị.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Quảng_Trị.secret|Quảng_Trị.secret]] 
 

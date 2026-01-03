@@ -12,21 +12,19 @@ markerFolder: ./counties~Hồ_Chí_Minh/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [counties~Hồ_Chí_Minh](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City/counties~Hồ_Chí_Minh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City/counties~Hồ_Chí_Minh|counties~Hồ_Chí_Minh]] 
 
-### #is_/same_as :: [counties~Hồ_Chí_Minh.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City/counties~Hồ_Chí_Minh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City/counties~Hồ_Chí_Minh.public|counties~Hồ_Chí_Minh.public]] 
 
-### #is_/same_as :: [counties~Hồ_Chí_Minh.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City/counties~Hồ_Chí_Minh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City/counties~Hồ_Chí_Minh.internal|counties~Hồ_Chí_Minh.internal]] 
 
-### #is_/same_as :: [counties~Hồ_Chí_Minh.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City/counties~Hồ_Chí_Minh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City/counties~Hồ_Chí_Minh.protect|counties~Hồ_Chí_Minh.protect]] 
 
-### #is_/same_as :: [counties~Hồ_Chí_Minh.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City/counties~Hồ_Chí_Minh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City/counties~Hồ_Chí_Minh.private|counties~Hồ_Chí_Minh.private]] 
 
-### #is_/same_as :: [counties~Hồ_Chí_Minh.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City/counties~Hồ_Chí_Minh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City/counties~Hồ_Chí_Minh.personal|counties~Hồ_Chí_Minh.personal]] 
 
-### #is_/same_as :: [counties~Hồ_Chí_Minh.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hồ_Chí_Minh-City/counties~Hồ_Chí_Minh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City/counties~Hồ_Chí_Minh.secret|counties~Hồ_Chí_Minh.secret]] 
 

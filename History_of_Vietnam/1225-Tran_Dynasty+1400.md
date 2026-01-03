@@ -48,3 +48,20 @@ inception: 1226-01-17T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tr%E1%BA%A7n%20dynasty) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/1225-Tran_Dynasty+1400|1225-Tran_Dynasty+1400]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/1225-Tran_Dynasty+1400.public|1225-Tran_Dynasty+1400.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/1225-Tran_Dynasty+1400.internal|1225-Tran_Dynasty+1400.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/1225-Tran_Dynasty+1400.protect|1225-Tran_Dynasty+1400.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/1225-Tran_Dynasty+1400.private|1225-Tran_Dynasty+1400.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/1225-Tran_Dynasty+1400.personal|1225-Tran_Dynasty+1400.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/1225-Tran_Dynasty+1400.secret|1225-Tran_Dynasty+1400.secret]] 
+

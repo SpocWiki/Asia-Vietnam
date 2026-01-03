@@ -40,17 +40,17 @@ markerFolder: ./Đồng_Bằng_Sông_Hồng/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Đồng_Bằng_Sông_Hồng](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng|Đồng_Bằng_Sông_Hồng]] 
 
-### #is_/same_as :: [Đồng_Bằng_Sông_Hồng.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.public|Đồng_Bằng_Sông_Hồng.public]] 
 
-### #is_/same_as :: [Đồng_Bằng_Sông_Hồng.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.internal|Đồng_Bằng_Sông_Hồng.internal]] 
 
-### #is_/same_as :: [Đồng_Bằng_Sông_Hồng.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.protect|Đồng_Bằng_Sông_Hồng.protect]] 
 
-### #is_/same_as :: [Đồng_Bằng_Sông_Hồng.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.private|Đồng_Bằng_Sông_Hồng.private]] 
 
-### #is_/same_as :: [Đồng_Bằng_Sông_Hồng.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.personal|Đồng_Bằng_Sông_Hồng.personal]] 
 
-### #is_/same_as :: [Đồng_Bằng_Sông_Hồng.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Đồng_Bằng_Sông_Hồng.secret|Đồng_Bằng_Sông_Hồng.secret]] 
 

@@ -107,3 +107,20 @@ Libris_URI: nl036ns62h20g0h
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ho%20Chi%20Minh) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh|Ho_Chi_Minh]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh.public|Ho_Chi_Minh.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh.internal|Ho_Chi_Minh.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh.protect|Ho_Chi_Minh.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh.private|Ho_Chi_Minh.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh.personal|Ho_Chi_Minh.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh.secret|Ho_Chi_Minh.secret]] 
+

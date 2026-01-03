@@ -40,17 +40,17 @@ markerFolder: ./Bạc_Liêu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bạc_Liêu](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu|Bạc_Liêu]] 
 
-### #is_/same_as :: [Bạc_Liêu.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.public|Bạc_Liêu.public]] 
 
-### #is_/same_as :: [Bạc_Liêu.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.internal|Bạc_Liêu.internal]] 
 
-### #is_/same_as :: [Bạc_Liêu.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.protect|Bạc_Liêu.protect]] 
 
-### #is_/same_as :: [Bạc_Liêu.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.private|Bạc_Liêu.private]] 
 
-### #is_/same_as :: [Bạc_Liêu.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.personal|Bạc_Liêu.personal]] 
 
-### #is_/same_as :: [Bạc_Liêu.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bạc_Liêu.secret|Bạc_Liêu.secret]] 
 

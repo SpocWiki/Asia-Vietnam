@@ -40,17 +40,17 @@ markerFolder: ./Can_Tho/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Can_Tho](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho|Can_Tho]] 
 
-### #is_/same_as :: [Can_Tho.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.public|Can_Tho.public]] 
 
-### #is_/same_as :: [Can_Tho.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.internal|Can_Tho.internal]] 
 
-### #is_/same_as :: [Can_Tho.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.protect|Can_Tho.protect]] 
 
-### #is_/same_as :: [Can_Tho.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.private|Can_Tho.private]] 
 
-### #is_/same_as :: [Can_Tho.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.personal|Can_Tho.personal]] 
 
-### #is_/same_as :: [Can_Tho.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Can_Tho.secret|Can_Tho.secret]] 
 

@@ -133,3 +133,20 @@ date_of_birth: 1911-08-25T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/V%C3%B5%20Nguy%C3%AAn%20Gi%C3%A1p) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Võ_Nguyên_Giáp|Võ_Nguyên_Giáp]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Võ_Nguyên_Giáp.public|Võ_Nguyên_Giáp.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Võ_Nguyên_Giáp.internal|Võ_Nguyên_Giáp.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Võ_Nguyên_Giáp.protect|Võ_Nguyên_Giáp.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Võ_Nguyên_Giáp.private|Võ_Nguyên_Giáp.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Võ_Nguyên_Giáp.personal|Võ_Nguyên_Giáp.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Võ_Nguyên_Giáp.secret|Võ_Nguyên_Giáp.secret]] 
+

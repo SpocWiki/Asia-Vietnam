@@ -40,17 +40,17 @@ markerFolder: ./Hải_Phòng/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hải_Phòng](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng|Hải_Phòng]] 
 
-### #is_/same_as :: [Hải_Phòng.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.public|Hải_Phòng.public]] 
 
-### #is_/same_as :: [Hải_Phòng.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.internal|Hải_Phòng.internal]] 
 
-### #is_/same_as :: [Hải_Phòng.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.protect|Hải_Phòng.protect]] 
 
-### #is_/same_as :: [Hải_Phòng.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.private|Hải_Phòng.private]] 
 
-### #is_/same_as :: [Hải_Phòng.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.personal|Hải_Phòng.personal]] 
 
-### #is_/same_as :: [Hải_Phòng.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Hải_Phòng.secret|Hải_Phòng.secret]] 
 

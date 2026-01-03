@@ -40,17 +40,17 @@ markerFolder: ./Bắc_Giang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bắc_Giang](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang|Bắc_Giang]] 
 
-### #is_/same_as :: [Bắc_Giang.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.public|Bắc_Giang.public]] 
 
-### #is_/same_as :: [Bắc_Giang.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.internal|Bắc_Giang.internal]] 
 
-### #is_/same_as :: [Bắc_Giang.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.protect|Bắc_Giang.protect]] 
 
-### #is_/same_as :: [Bắc_Giang.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.private|Bắc_Giang.private]] 
 
-### #is_/same_as :: [Bắc_Giang.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.personal|Bắc_Giang.personal]] 
 
-### #is_/same_as :: [Bắc_Giang.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Bắc_Giang.secret|Bắc_Giang.secret]] 
 

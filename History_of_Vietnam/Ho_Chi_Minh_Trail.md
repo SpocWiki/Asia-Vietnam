@@ -43,3 +43,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ho%20Chi%20Minh%20trail) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh_Trail|Ho_Chi_Minh_Trail]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh_Trail.public|Ho_Chi_Minh_Trail.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh_Trail.internal|Ho_Chi_Minh_Trail.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh_Trail.protect|Ho_Chi_Minh_Trail.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh_Trail.private|Ho_Chi_Minh_Trail.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh_Trail.personal|Ho_Chi_Minh_Trail.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/History_of_Vietnam/Ho_Chi_Minh_Trail.secret|Ho_Chi_Minh_Trail.secret]] 
+

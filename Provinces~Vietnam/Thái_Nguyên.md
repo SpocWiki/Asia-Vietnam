@@ -40,17 +40,17 @@ markerFolder: ./Thái_Nguyên/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thái_Nguyên](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên|Thái_Nguyên]] 
 
-### #is_/same_as :: [Thái_Nguyên.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.public|Thái_Nguyên.public]] 
 
-### #is_/same_as :: [Thái_Nguyên.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.internal|Thái_Nguyên.internal]] 
 
-### #is_/same_as :: [Thái_Nguyên.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.protect|Thái_Nguyên.protect]] 
 
-### #is_/same_as :: [Thái_Nguyên.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.private|Thái_Nguyên.private]] 
 
-### #is_/same_as :: [Thái_Nguyên.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.personal|Thái_Nguyên.personal]] 
 
-### #is_/same_as :: [Thái_Nguyên.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/Provinces~Vietnam/Thái_Nguyên.secret|Thái_Nguyên.secret]] 
 
