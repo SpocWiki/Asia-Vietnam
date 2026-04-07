@@ -9,22 +9,22 @@ aliases:
   - 大越
 has_id_wikidata: Q3111454
 instance_of:
-  - "[[_Standards/WikiData/WD~dynasty,164950]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
+  - "[[_Standards/WikiData/WD~dynasty,164950|WD~dynasty,164950]]"
+  - "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Champa,216786]]"
-  - "[[_Standards/WikiData/WD~Muang_Phuan,1186434]]"
-  - "[[_Standards/WikiData/WD~Yuan_dynasty,7313]]"
-follows: "[[_Standards/WikiData/WD~Ly_dynasty,878309]]"
-followed_by: "[[_Standards/WikiData/WD~Hồ_dynasty,1209047]]"
+  - "[[_Standards/WikiData/WD~Champa,216786|WD~Champa,216786]]"
+  - "[[_Standards/WikiData/WD~Muang_Phuan,1186434|WD~Muang_Phuan,1186434]]"
+  - "[[_Standards/WikiData/WD~Yuan_dynasty,7313|WD~Yuan_dynasty,7313]]"
+follows: "[[_Standards/WikiData/WD~Ly_dynasty,878309|WD~Ly_dynasty,878309]]"
+followed_by: "[[_Standards/WikiData/WD~Hồ_dynasty,1209047|WD~Hồ_dynasty,1209047]]"
 language_used:
-  - "[[_Standards/WikiData/WD~Middle_Chinese,2016252]]"
-  - "[[_Standards/WikiData/WD~Vietnamese,9199]]"
+  - "[[_Standards/WikiData/WD~Middle_Chinese,2016252|WD~Middle_Chinese,2016252]]"
+  - "[[_Standards/WikiData/WD~Vietnamese,9199|WD~Vietnamese,9199]]"
 coordinate_location: Point(105.838611111 21.0375)
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Taoism,9598]]"
-capital: "[[_Standards/WikiData/WD~Hanoi,1858]]"
+  - "[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]"
+  - "[[_Standards/WikiData/WD~Taoism,9598|WD~Taoism,9598]]"
+capital: "[[_Standards/WikiData/WD~Hanoi,1858|WD~Hanoi,1858]]"
 dissolved_abolished_or_demolished_date: 1400-03-31T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20Tr%E1%BA%A7n%20dynasty%20%281225-1400%29.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/TrucLam%20CongNgoai.JPG

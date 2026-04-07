@@ -1,8 +1,8 @@
 ---
 aliases:
 has_id_wikidata: Q1209333
-instance_of: "[[_Standards/WikiData/WD~dynasty,164950]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9516264,9516264]]"
+instance_of: "[[_Standards/WikiData/WD~dynasty,164950|WD~dynasty,164950]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q9516264,9516264|WD~Q9516264,9516264]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20500%20BCE%20showing%20Van%20Lang.png
 coordinate_location: Point(105.441944444 21.281666666)
 ---

@@ -1,10 +1,10 @@
 ---
 aliases:
 has_id_wikidata: Q212913
-part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Vietnam,7845718]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Vietnam,881]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514|WD~history_of_Southeast_Asia,2227514]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Vietnam,7845718|WD~Template_History_of_Vietnam,7845718]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%E9%81%B7%E9%83%BD%E8%A9%94.jpg
 Commons_category: History of Vietnam
 ---
