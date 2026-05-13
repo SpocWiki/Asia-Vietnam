@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Phú_Thọ/
 markerFolder: ./Phú_Thọ/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

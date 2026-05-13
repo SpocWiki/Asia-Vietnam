@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kon_Tum/
 markerFolder: ./Kon_Tum/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

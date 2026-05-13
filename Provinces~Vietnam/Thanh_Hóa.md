@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Thanh_Hóa/
 markerFolder: ./Thanh_Hóa/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

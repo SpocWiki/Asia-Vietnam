@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bình_Thuận/
 markerFolder: ./Bình_Thuận/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

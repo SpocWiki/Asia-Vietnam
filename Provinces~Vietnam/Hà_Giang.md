@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Hà_Giang/
 markerFolder: ./Hà_Giang/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

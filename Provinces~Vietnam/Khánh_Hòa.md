@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Khánh_Hòa/
 markerFolder: ./Khánh_Hòa/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

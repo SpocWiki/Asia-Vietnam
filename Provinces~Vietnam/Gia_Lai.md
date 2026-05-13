@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gia_Lai/
 markerFolder: ./Gia_Lai/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

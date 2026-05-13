@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Yên_Bái/
 markerFolder: ./Yên_Bái/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
