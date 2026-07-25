@@ -29,7 +29,7 @@ dv_UNTERM_Chinese_Formal: 越南社会主义共和国
 dv_UNTERM_French_Formal: la République socialiste du Viet Nam
 dv_UNTERM_Russian: Вьетнам
 dv_UNTERM_Russian_Formal: Социалистическая Республика Вьетнам
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Vietnam]]'
 dv_Sub-region_Name: '[[South-eastern Asia]]'
 dv_Region: 142
@@ -54,7 +54,7 @@ dv_ISO2: VN
 dv_ISO3: VNM
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
+  - '[[../../../../../WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam|Vietnam]]'
   - '[[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam.public|Vietnam.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam.internal|Vietnam.internal]]'
@@ -407,17 +407,17 @@ dv_has_:
 dv_has_name_de: Vietnam
 dv_Area-Total: 331114
 dv_Area-Land: 325490
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: VN
-dv_Capital: '[[../../Europe/Europe~North/Sweden/City/Hanoe|Hanoe]]'
+dv_Capital: '[[../../../Europe/Europe~North/Sweden/City/Hanoe|Hanoe]]'
 dv_Alcohol-l: 3.8
 dv_Language-Id: 460
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 106.26
 dv_has_place_latitude: 15.8917
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
+- '[[../../../../../WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam|Vietnam]]'
 - '[[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam.public|Vietnam.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam.internal|Vietnam.internal]]'
@@ -1144,7 +1144,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Vietnam/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -1165,7 +1165,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Vietnam_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1193,7 +1193,7 @@ Capital = `=this.dv_Capital`
 
 ![[Emblem_of_Vietnam.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Vietnam.mp3|Anthem-Vietnam.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Vietnam.mp3|Anthem-Vietnam.mp3]]
 
 ![[Flag_of_Vietnam.svg|350]]
 
