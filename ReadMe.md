@@ -1222,17 +1222,17 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam|Vietnam]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam.public|Vietnam.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam.internal|Vietnam.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam.protect|Vietnam.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam.private|Vietnam.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam.personal|Vietnam.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam.secret|Vietnam.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam/ReadMe.secret|ReadMe.secret]] 
 
